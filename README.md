@@ -1,2 +1,2 @@
 # unityutils
-General utility scripts for use with the Unity engine
+Mutually independent scripts for general utility purposes in the Unity game engine
